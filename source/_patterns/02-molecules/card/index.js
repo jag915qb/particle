@@ -9,6 +9,7 @@ import 'atoms/button';
 
 // Module template
 import './_card.twig';
+import './_card-helper.twig';
 
 // Module styles
 import './_card.scss';
